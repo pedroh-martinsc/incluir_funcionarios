@@ -1,6 +1,6 @@
 # Incluir Funcionarios
 
-Um projeto de sistema para inclusão de funcionarios feito com ajuda da nova tecnologia "Github Copilot"
+Um projeto de sistema para inclusão de funcionarios feito com ajuda da "nova" tecnologia "Github Copilot"
 
 ### Pré requisitos
 
